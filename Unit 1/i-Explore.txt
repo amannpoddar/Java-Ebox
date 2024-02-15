@@ -1,0 +1,29 @@
+1) Which of the following is a primitive data type?
+=> All of the listed options
+
+2) Primitive datatypes are stored in stack memory
+=> True
+
+3) Which of the following code snippets is the correct "Hello World" program?
+=> class HelloWorld
+{
+    public static void main(String args[])
+    {
+        System.out.println("Hello World");
+    }
+}
+
+4) What is the size of double variable?
+=> 64 bit
+
+5) What is the default value of byte variable?
+=> 0
+
+6) What is the size of char variable?
+=> 16 bit
+
+7) Choose the appropriate data type for this field: kindOfBird 
+=> String
+
+8) Choose the appropriate data type for this field: numberOfEggs
+=> int
