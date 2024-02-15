@@ -1,0 +1,43 @@
+1) The condition statement returns either true or false.
+
+2) if, if else
+
+3) False
+
+4) 2 is greater than 1
+
+5) greater tested
+
+6) compilation error
+
+7) no output
+
+8) no output
+
+9) compilation error
+
+10) None of the mentioned options.
+
+11) If a is false and b is true then the output is ELSE.
+
+12) switch
+
+13) switch,if
+
+14) 2
+
+15) int, string
+
+16) break
+
+17) default
+
+18) true,true
+
+19) -101--111--010-101-
+
+20) compilation error
+
+21) hello welcome to
+
+22) i and ii are correct
